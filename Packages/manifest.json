@@ -2,6 +2,7 @@
   "dependencies": {
     "com.cesium.unity": "1.14.0",
     "com.google.ar.core.arfoundation.extensions": "https://github.com/google-ar/arcore-unity-extensions.git",
+    "com.unity.2d.sprite": "1.0.0",
     "com.unity.ai.navigation": "2.0.3",
     "com.unity.collab-proxy": "2.6.0",
     "com.unity.ide.rider": "3.0.31",
